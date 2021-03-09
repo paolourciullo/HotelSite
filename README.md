@@ -1,0 +1,2 @@
+# HotelSite
+hotel page exercise
